@@ -3,6 +3,10 @@
 
 Welcome to our collaborative text editor repository! This project is a simple yet powerful text editor written in Go, designed for collaborative editing. With this editor, multiple users can work on the same document simultaneously, making it a great tool for team collaboration.
 
+### Working of the collabrative mode
+
+https://github.com/darshan117/vimaniac/assets/68278195/31f8fa52-d243-4ddc-ba57-6a0c2b8de014
+
 ## Setup
 
 To get started, follow these simple steps:
